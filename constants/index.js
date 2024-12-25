@@ -1,11 +1,10 @@
-export const rapidApiKey = "f35dd7b7d9msh5702cbe6947ff9bp160c4ajsne1bc02608063";
+export const rapidApiKey = "USE YOUR OWN RAPID API KEY";
 
 export const sliderImages = [
-  // require("../assets/images/slide1.png"),
-  // require("../assets/images/slide2.png"),
+  require("../assets/images/slide1.png"),
+  require("../assets/images/slide2.png"),
   require("../assets/images/slide3.png"),
   require("../assets/images/slide4.png"),
-  // require("../assets/images/slide5.png"),
 ];
 
 export const bodyParts = [
