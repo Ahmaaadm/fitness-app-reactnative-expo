@@ -28,7 +28,7 @@ Prerequisites
 Installation
  1. Clone the repository:
 
-git clone https://github.com/your-username/fitness-app.git  
+git clone [https://github.com/Ahmaaadm/fitness-app-reactnative-expo.git]
 
 
  2. Navigate to the project folder:
@@ -66,5 +66,5 @@ Contact 📬
 
 For any questions or feedback, reach out to:
  • ahmad moussa
- • LinkedIn: [ahmad moussa](https://www.linkedin.com/in/ahmad-moussa-04bb0a263/)
+ • LinkedIn: [https://www.linkedin.com/in/ahmad-moussa-04bb0a263/]
  • Email: ahmadmoussa680@gmail.com
